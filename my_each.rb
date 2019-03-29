@@ -9,6 +9,6 @@ def my_each(array)
     array
   
   else 
-    puts "No array given."
+    "No array given."
   end
 end 
